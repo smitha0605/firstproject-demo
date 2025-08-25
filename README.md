@@ -1,4 +1,4 @@
 # firstproject-demo
 This is my first repo.
 <br>
-Author - Smitha
+Author - Smitha.T
